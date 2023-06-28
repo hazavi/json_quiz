@@ -12,7 +12,6 @@ namespace json // Note: actual namespace depends on the project name.
         public List<string> Options { get; set; }
         public string Answer { get; set; }
         public string Desc { get; set; }
-        public int Qnum { get; set; }
     }
 
     public class Quiz
